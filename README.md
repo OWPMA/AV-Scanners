@@ -14,7 +14,7 @@ no lol you can check it's code it only downloads official ones
    more coming soon if i have time...
 
 # How to install
-1. click on "Code and Download as a zip"
+1. click on "Code and Download zip"
 2. extract the content and run avsdownloader.bat (don't run it with admin previlages)
 3. and you're done
    
